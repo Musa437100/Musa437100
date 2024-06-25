@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Musa437100
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin + Flutter
 - 💞️ I’m looking to collaborate on app developing projects
 - 📫 How to reach me email me at muhammadmusamirza8@gmail.com
 
